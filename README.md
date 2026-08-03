@@ -156,6 +156,10 @@ ORDER BY student, INCOMEGROUP_LABEL
 
 <img width="483" height="175" alt="image" src="https://github.com/user-attachments/assets/19b441ad-7087-469f-84ef-5a2a433ab776" />
 
+## ✉️ Contact
+* **First Name, Last Name:** Emircan Yucak
+* **LinkedIn:** www.linkedin.com/in/emircan-yucak-09a625427
+* **Email:** emir_yucak1979@hotmail.com
 
 
 
